@@ -90,7 +90,7 @@ h4 {
 }
 
 #main {
-  background-image: url('soulful-empowering/Resources/Media/haute-chocolate-styled-stock-photography-grey-13-final.jpg');
+  background-image: url('./Resources/Media/haute-chocolate-styled-stock-photography-grey-13-final.jpg');
   background-position: center;
   background-size: cover;
   height: 700px;
@@ -149,4 +149,8 @@ h4 {
   border: 1px solid black;
   height: 300px;
   width: 300px;
+}
+
+.footer {
+  padding-left: 20px;
 }
